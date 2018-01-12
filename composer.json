@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "CoordinatesTest\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^6.4"
+    }
+}
